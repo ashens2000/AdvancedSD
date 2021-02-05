@@ -1,0 +1,77 @@
+[33mcommit 145002feb1fcbae85209987c33acbde7b248314b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 12:59:38 2021 +0530
+
+    Removed all the unnecessary comments of the full program.
+
+[33mcommit a294e0f534fd6b18e38f6121cf3aa486725ba740[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 12:57:38 2021 +0530
+
+    Extract Class (Remove all the methods before  run method in the Aardvark class and create a new class called AardvarkSecond to store all the removed methods from the Aardvark class.)
+
+[33mcommit 4dfd45b66b95b9419db032b3c0692e19a48ca534[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 12:54:12 2021 +0530
+
+    Introduced Explaining variable (removed (5 / 3 == 1) and add a boolean variable called isFileRead)
+
+[33mcommit 1e717eba6abb7cb7377c4646e8b2f34a568ba7ad[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 12:39:22 2021 +0530
+
+    Replace magic number in Aardvark class
+
+[33mcommit 4d5d8bfa33453f049bbb8ff8fc3db3103ff38984[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 12:33:18 2021 +0530
+
+    Extract method (Remove duplicated method)
+
+[33mcommit b41d1912d3392ebdf40af69612b0f287e3985acb[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 10:54:20 2021 +0530
+
+    Used Rename method(renamed pg() method to printGrid())
+
+[33mcommit 4cd05cf561bf2f4ae723fcefc68ddd1c912a3b74[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 07:57:33 2021 +0530
+
+    Parameterized method(remove duplicate code by using parameterized method)
+
+[33mcommit cb742186e417e88a5e2721bc2ca967076834fb59[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 07:54:46 2021 +0530
+
+    Remove unused variables(in picture frame class)
+
+[33mcommit 23bf8b487690fcfd9d6e5b6da5a04f3643061868[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Sat Jan 9 07:28:49 2021 +0530
+
+    Consolidate duplicate fragments(in pictureFrame class)
+
+[33mcommit 5ed2200477071e2005408f40af396527414b026e[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Fri Jan 8 23:22:13 2021 +0530
+
+    Remove unused variables in PictureFrame class
+
+[33mcommit 37760ce2ddd2551bbb86a9a18ed43df3bb292ada[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Fri Jan 8 22:23:03 2021 +0530
+
+    Removed middle man(Removed IOSpecialist class)
+
+[33mcommit ddaac75c895d20a01cb6de956cc8d5b08a7cb5c7[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Fri Jan 8 22:20:53 2021 +0530
+
+    Added original Source files to the project.
+
+[33mcommit 32a4b8e0b351e6695d86c0f1c68dfccaa00d2380[m
+Author: chandima <59339732+Chandima-R@users.noreply.github.com>
+Date:   Fri Jan 8 22:03:54 2021 +0530
+
+    Added files to the git repository
